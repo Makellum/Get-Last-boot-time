@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Get Last Boot time</h1><br>
-<img src="https://github.com/Makellum/Get-Last-boot-time/blob/main/power-button-featured.jpg" width="250" height="200"><br>
+<img src="https://github.com/Makellum/Get-Last-boot-time/blob/main/power-button-featured.jpg" width="250" height="150"><br>
   </div>
   <p float="left">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Makellum/Hackathon">
